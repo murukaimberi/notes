@@ -243,3 +243,9 @@ To implement the singleton pattern we need :
 
 > [!NOTE]
 > Design Principle - Identify the aspects of your application that vary and separate them from what stays the same.
+> take the parts that vary and encapsulate them, so that later you can alter or extend the parts that vary without affecting those that don't.
+
+* all patterns provide a way to let some parts of a system vary independently of all other parts.
+
+> [!NOTE]
+> Program to an interface not to an implementation.
